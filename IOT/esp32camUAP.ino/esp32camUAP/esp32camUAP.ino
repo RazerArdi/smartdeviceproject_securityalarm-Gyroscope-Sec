@@ -11,9 +11,9 @@
 #include "esp_task_wdt.h"
 #include <HTTPClient.h>
 
-// Firebase Configuration
-#define API_KEY "AIzaSyBffZ8HnCzISN4Ahxt0wYKTyevtivvaIK4"
-#define DATABASE_URL "https://piranti-e8cda-default-rtdb.asia-southeast1.firebasedatabase.app/"
+// Firebase Configuration (Dummy, example)
+#define API_KEY "AIzaSyBffZ8HnCzISN4Ahxt0wYKTyevtivvaIK4(Dummy, example)"
+#define DATABASE_URL "https://pirantidsa-e8cda-default-rtdb.asia-southeast2.firebasedatabase.app/"
 #define STORAGE_BUCKET_ID "piranti-e8cda.appspot.com"
 #define USER_EMAIL "bayuardi30@outlook.com"
 #define USER_PASSWORD "testing"

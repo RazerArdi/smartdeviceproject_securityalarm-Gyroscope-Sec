@@ -4,11 +4,11 @@
 #include <addons/TokenHelper.h>
 #include <addons/RTDBHelper.h>
 
-// Firebase Configuration
-#define API_KEY "AIzaSyBffZ8HnCzISN4Ahxt0wYKTyevtivvaIK4"
-#define DATABASE_URL "https://piranti-e8cda-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define USER_EMAIL "bayuardi30@outlook.com"
-#define USER_PASSWORD "testing"
+// Firebase Configuration (Dummy, example)
+#define API_KEY "AIzaSyBffZ8HnCzISN4Ahxt0wYKTyevtivvaIK4SS"
+#define DATABASE_URL "https://pirantidas-e8cda-default-rtdb.asia-southeast2.firebasedatabase.app/"
+#define USER_EMAIL "bayuardi30@outlook.com" 
+#define USER_PASSWORD "testing" 
 
 // WiFi credentials
 const char* ssid = "TEST";
